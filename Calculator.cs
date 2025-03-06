@@ -6,6 +6,7 @@ int main() {
     return 0;
 }
 int a = 5, b = 3;
+ Multiplication
  Division
 if (b != 0)
     cout << "Quotient: " << (a / b) << endl;
@@ -14,3 +15,6 @@ else
 
 cout << "Product: " << (a * b) << endl;
  Multiplication
+
+cout << "Difference: " << (a - b) << endl;
+ Substruction
