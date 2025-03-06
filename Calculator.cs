@@ -22,3 +22,4 @@ cout << "Difference: " << (a - b) << endl;
 
 cout << "Sum: " << (a + b) << endl;
 Addition
+cout << "This is from conflict_branch2" << endl;
