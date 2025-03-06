@@ -23,3 +23,4 @@ cout << "This is from conflict_branch1" << endl;
 
 cout << "Sum: " << (a + b) << endl;
 Addition
+cout << "This is from conflict_branch2" << endl;
